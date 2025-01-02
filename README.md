@@ -1,6 +1,7 @@
 ## Zoo Script 
 
-```git clone https://github.com/zainarain279/zoo-bot.git
+```
+git clone https://github.com/zainarain279/zoo-bot.git
 ```
 ```
 cd zoo-bot
